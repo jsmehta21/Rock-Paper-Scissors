@@ -79,6 +79,6 @@ This project is inspired by the classic Rock-Paper-Scissors game with a modern U
 ## 🛠 License
 This project is for personal and educational use only.
 
-💌 Contact
+## 💌 Contact
 For any questions, feedback, or suggestions, connect with me on GitHub: [jsmehta21](https://github.com/jsmehta21)<br>
 🌟 Enjoy the game! Have fun! 🎮
